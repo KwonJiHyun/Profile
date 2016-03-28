@@ -13,6 +13,7 @@
 - **SW부장** : **[정재현](https://github.com/BCSDLab/Profile/blob/master/Introduce/pathFinder%20:%20JaeHyeunJung)** - 컴퓨터공학부 10학번
 
 ###Member
+- **[권지현](https://github.com/BCSDLab/Profile/blob/master/Introduce/KwonJiHyun.md)** - 컴퓨터공학부 12학번
 - **김대겸** - 컴퓨터공학부 12학번
 - **[김동우](https://github.com/BCSDLab/Profile/blob/master/Introduce/Dongwoo.md)** - 컴퓨터공학부 12학번
 - **김민백** - 기계공학부 11학번
